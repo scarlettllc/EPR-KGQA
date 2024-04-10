@@ -5,6 +5,7 @@
 data/cache/
 data/CWQ/
 data/WebQSP/
+data/WebQSP_old/
 data/log/
 bert-base-uncased/
 NSM_H/datasets
